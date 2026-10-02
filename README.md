@@ -17,7 +17,7 @@ With a passion for crafting seamless digital experiences, I thrive on solving co
 - Innovative solutions where complex backend logic meets intuitive frontend design.
 
 📫 **Get in Touch:**  
-- LinkedIn: [Muntajab Aldeen Ahmed AlAni]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muntajab-aldeen-alani-410b6b228/))
+- LinkedIn: [Muntajabuldeen Ahmed AlAni]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muntajabuldeen-alani-410b6b228/))
 - Email: [muntajabalani98@gmail.com](mailto:muntajabalani98@gmail.com)
 
 ---
